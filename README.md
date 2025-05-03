@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Shankar 👋  
+**React.js | Node.js | Full-Stack Developer | Building AI-Powered Web Apps | 3+ YOE**
 
-<!--
-**Shankar0130/shankar0130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:  
+- AI-Powered Chatbot using OpenAI API  
+- E-commerce Admin Dashboard (React + Node.js)
 
-Here are some ideas to get you started:
+🌱 I’m learning:
+- System Design, Advanced Node.js  
+- AI integrations (OpenAI, LangChain, Vector DBs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:
+- Full-Stack JavaScript (React, Node.js, MongoDB)  
+- Building scalable and secure apps  
+- Integrating AI into your products
+
+📫 How to reach me:
+- [LinkedIn](https://linkedin.com/in/shankaryadav)
+- [Email](mailto:shankaryadav.work@gmail.com)
+
+📈 GitHub Stats  
+![Shankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankaryadav&show_icons=true&theme=default)
+
+<!-- Optional extras -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankaryadav&layout=compact) -->
+
