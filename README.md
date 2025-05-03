@@ -18,8 +18,6 @@
 - [LinkedIn](https://linkedin.com/in/shankaryadav)
 - [Email](mailto:shankaryadav.work@gmail.com)
 
-📈 GitHub Stats  
-![Shankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankaryadav&show_icons=true&theme=default)
 
 <!-- Optional extras -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankaryadav&layout=compact) -->
