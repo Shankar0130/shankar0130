@@ -19,6 +19,19 @@
 - [Email](mailto:shankaryadav.work@gmail.com)
 
 
+---
+
+### 📊 GitHub Stats & Activity
+
+- 💻 133+ contributions in the last year  
+- 🚀 Active across full-stack, AI, and system projects  
+- 🔁 Consistent learner + builder mindset  
+
+![Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankaryadav&show_icons=true&count_private=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shankaryadav&theme=default)
+
+
 <!-- Optional extras -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankaryadav&layout=compact) -->
 
