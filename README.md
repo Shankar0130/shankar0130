@@ -27,11 +27,11 @@
 - 🚀 Active across full-stack, AI, and system projects  
 - 🔁 Consistent learner + builder mindset  
 
-![Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankaryadav&show_icons=true&count_private=true&theme=default)
+![Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shankar0130&show_icons=true&count_private=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shankaryadav&theme=default)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shankar0130&theme=default)
 
 <!-- Optional extras -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankaryadav&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar0130&layout=compact) -->
+
 
